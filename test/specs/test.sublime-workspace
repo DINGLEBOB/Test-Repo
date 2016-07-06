@@ -1,0 +1,230 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"screenshot3"
+			],
+			[
+				"re",
+				"data-reactid"
+			],
+			[
+				"sc",
+				"screenshot"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"ca",
+				"call"
+			],
+			[
+				"it",
+				"item-name"
+			],
+			[
+				"before",
+				"beforeEach"
+			],
+			[
+				"to",
+				"toEqual"
+			],
+			[
+				"da",
+				"data-reactid"
+			],
+			[
+				"get",
+				"getUrl"
+			],
+			[
+				"i",
+				"init"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 624.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Nate/webdriverio/screenshot1.jpg",
+		"/C/Users/Nate/webdriverio/screenshot.jpg",
+		"/C/Users/Nate/webdriverio/screenshot",
+		"/C/Users/Nate/webdriverio/screenshot1",
+		"/C/Users/Nate/webdriverio/test/specs/test.js",
+		"/C/Users/Nate/webdriverio/wdio.conf.js",
+		"/C/Users/Nate/webdriverio/node_modules/q/q.js",
+		"/C/Users/Nate/webdriverio/test.js",
+		"/C/Users/Nate/webdriverio/node_modules/jasmine/README.md",
+		"/C/Users/Nate/webdriverio/node_modules/wdio-jasmine-framework/README.md",
+		"/C/Users/Nate/webdriverio/node_modules/jasmine/bin/jasmine.js",
+		"/C/Users/Nate/webdriverio/node_modules/jasmine-core/RELEASE.md",
+		"/C/Users/Nate/webdriverio/node_modules/jasmine-core/README.md",
+		"/C/Users/Nate/webdriverio/test/specs/test-seperate.js",
+		"/C/Users/Nate/webdriverio/test/specs/test-seperate",
+		"/C/Users/Nate/webdriverio-test/test.js",
+		"/C/Users/Nate/Desktop/Canvas/Test.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"screenshot"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Nate\\Desktop\\Canvas\\Test"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
